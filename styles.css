@@ -110,6 +110,10 @@ main {
   background: #dd0000;
 }
 
+.link-tag {
+  text-decoration: none;
+}
+
 /* ---------- MIDDLE SECTION ---------- */
 .games {
   display: grid;
